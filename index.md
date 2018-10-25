@@ -12,4 +12,10 @@ Project has been developed as "kicknews", then died as "bottlenews".
 
 ***
 
+### Werewolves
+The classic boardgame in a simple real-time JS implementation.  
+[repo](https://github.com/alxmhe/werewolves)
+
+***
+
 More to come.
